@@ -2,7 +2,7 @@
 # Lecturer: PhD. Tran Nhat Quang
 ## This is the link github official of my group project.
 ### :busts_in_silhouette:Student name: 
-####       Nguyen Minh Tri - 20110422 
+####       Nguyen Minh Tri 20110422 
 ####       Phan Thanh Luan 20110380
 ####       Tran Minh Gia Khanh 20110374
 ####       Le Diep Tri 20110421
