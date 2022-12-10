@@ -13,5 +13,6 @@
 ## :white_check_mark: We created the subject and report in a little amount of time, with little expertise and numerous other technical and software project implementation difficulties. ## Therefore, as it is inevitable that a topic may have flaws, we eagerly await the lecturers' insightful comments in order to further our knowledge and improve for the next time.
 ## :white_check_mark: We appreciate you very much.
 ## :white_check_mark: Finally, we would want to wish all of you teachers, ladies and gentlemen, continued health and success in your line of work with developing individuals. Again, we appreciate your kind words.
+## :white_check_mark: If something's wrong - please contact me through my email: sktmaneytri@gmail.com or 20110422@student.hcmute.edu.vn
 
 ### :sparkles:We sincerely thank you. 
